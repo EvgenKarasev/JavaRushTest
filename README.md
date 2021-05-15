@@ -1,5 +1,6 @@
 # JavaRushTest
-Internship game
+Internship game.
+
 The following features have been implemented:
 1. Get a list of all registered players;
 2. Create a new player;
